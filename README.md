@@ -8,7 +8,7 @@ A content-based movie recommendation system built with Python and Streamlit, fea
 - 🖼️ Movie posters from TMDB
 - 🎨 Modern dark-themed UI
 - ⚡ Fast recommendations
-- 📊 Dataset of 40 popular movies
+- 📊 Dataset of 4000 popular movies
 
 ## Installation
 
